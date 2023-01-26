@@ -1,0 +1,66 @@
+body {
+    background: black;
+    font-family: 'Roboto', sans-serif;
+}
+.post {
+    background: white;
+    margin:auto;
+    width: 525px;
+}
+.post-header{
+    position: relative;
+    
+}
+img{
+    width: 100%;
+    object-fit: fill;
+    padding-bottom: 15px;
+    padding-top: 15px;
+
+}
+i{
+    font-size: 38px;
+}
+.text-header{
+    margin-left: 5px;  
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.name{
+    position: relative;
+    padding-left: 44px;
+}
+.post-icon{
+    position: relative;
+}
+.fa-html5{
+    position: absolute;
+    font-size: 33px;
+    padding-left: 12px;
+    padding-top: 23px;
+}
+.fa-ellipsis-vertical{
+    position: absolute;
+    padding-left: 95%;
+    padding-top: 19px;
+}
+.fa-bookmark{
+   position: absolute;
+   padding-left: 17%;
+}
+.fa-heart {
+    padding-right:5px;
+    padding-left: 10px;
+}
+.fa-comment{
+    padding-right:5px;
+}
+.caption{
+    padding-bottom: 18px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.likes{
+    padding-top: 5px;
+    padding-left: 15px;
+}
